@@ -123,3 +123,11 @@ padding-top: 180px;
         width: 100%;
     }
 }
+@media (max-width:600px) {
+    .container-all{
+        box-sizing: border-box;
+        width: 99%;
+        height: 100vh;
+    }   
+    
+}
